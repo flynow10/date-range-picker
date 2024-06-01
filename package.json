@@ -1,0 +1,52 @@
+{
+  "name": "date-range-slider",
+  "version": "1.0.0",
+  "description": "A date range picker in the form of an input slider",
+  "type": "module",
+  "main": "src/index.ts",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/flynow10/date-range-slider.git"
+  },
+  "keywords": [
+    "date",
+    "range",
+    "slider",
+    "input",
+    "form",
+    "react"
+  ],
+  "author": "Flynow10, copilot",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/flynow10/date-range-slider/issues"
+  },
+  "homepage": "https://github.com/flynow10/date-range-slider#readme",
+  "dependencies": {
+    "@vitejs/plugin-react": "^4.3.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "typescript": "^5.4.5",
+    "vite": "^5.2.12"
+  },
+  "devDependencies": {
+    "@eslint/compat": "^1.0.3",
+    "@eslint/js": "^9.4.0",
+    "@types/node": "^20.13.0",
+    "@types/react": "^18.3.3",
+    "@types/react-dom": "^18.3.0",
+    "@typescript-eslint/eslint-plugin": "^7.11.0",
+    "@typescript-eslint/parser": "^7.11.0",
+    "eslint": "9.x",
+    "eslint-plugin-react": "^7.34.2",
+    "eslint-plugin-react-hooks": "^4.6.2",
+    "globals": "^15.3.0",
+    "prettier": "^3.2.5",
+    "typescript-eslint": "^7.11.0"
+  }
+}
